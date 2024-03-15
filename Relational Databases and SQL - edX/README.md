@@ -29,7 +29,7 @@ English: The reviewer rID gave the movie mID a number of stars rating (1-5) on a
 <br>
 
 Click [here][1] to see the database.
-Click [here][2] to see the schema and data.
+Click [here][2] to see the schema and data (You have to download the file and preview it on the browser).
   
   <br>
   <br>
@@ -51,7 +51,7 @@ English: The student with ID1 likes the student with ID2. Liking someone is not 
 <br>
 
 Click [here][3] to see the database.
-Click [here][4] to see the schema and data.
+Click [here][4] to see the schema and data (You have to download the file and preview it on the browser).
 
 <br>
 <br>
@@ -61,17 +61,17 @@ Click [here][4] to see the schema and data.
 
 ## Solutions
 
-SQL Movie-Rating Query Exercises (9 Questions)
+[SQL Movie-Rating Query Exercises (9 Questions)](https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Answers/Movie-Rating%20Query%20Exercises%20(9%20Questions).md)
 
-SQL Movie-Rating Query Exercises Extras
+[SQL Movie-Rating Query Exercises Extras](https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Answers/Movie-Rating%20Query%20Exercises%20Extras.md)
 
-SQL Social-Network Query Exercises (9 Questions)
+[SQL Social-Network Query Exercises (9 Questions)](https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Answers/Social-Network%20Query%20Exercises%20(9%20Questions).md)
 
-SQL Social-Network Query Exercises Extras
+[SQL Social-Network Query Exercises Extras](https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Answers/Social-Network%20Query%20Exercises%20Extras.md)
 
-SQL Movie-Rating Modification Exercises (3 Questions)
+[SQL Movie-Rating Modification Exercises (3 Questions)](https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Answers/Movie-Rating%20Modification%20Exercises%20(3%20Questions).md)
 
-SQL Social-Network Modification Exercises (3 Questions)
+[SQL Social-Network Modification Exercises (3 Questions)](https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Answers/Social-Network%20Modification%20Exercises%20(3%20Questions).md)
 
 
 
@@ -82,22 +82,8 @@ SQL Social-Network Modification Exercises (3 Questions)
 
   
 
-[1]: Relational-Databases-and-SQL/rating.sql
+[1]: https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Movie-rating/rating.sql
+[2]: https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Movie-rating/moviedata.html
 
-[2]: Relational-Databases-and-SQL/social.sql
-
-  
-
-[3]: ex1_movie_core.md
-
-[4]: ex2_movie_extra.md
-
-[5]: ex5_movie_mod.md
-
-  
-
-[6]: ex3_social_net_core.md
-
-[7]: ex4_social_net_extra.md
-
-[8]: ex6_social_net_mod.md
+[3]: https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Social-network/social.sql
+[4]: https://github.com/ako-abdelhaq/Databases/blob/master/Relational%20Databases%20and%20SQL%20-%20edX/Social-network/socialdata.html
