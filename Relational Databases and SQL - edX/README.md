@@ -26,13 +26,14 @@ English: The reviewer with ID number rID has a certain name.
   
 ******Rating ( rID, mID, stars, ratingDate )******
 English: The reviewer rID gave the movie mID a number of stars rating (1-5) on a certain ratingDate.
+
 <br>
 
-Click [here][1] to see the database.
+Click [here][1] to see the database.<br>
 Click [here][2] to see the schema and data (You have to download the file and preview it on the browser).
   
-  <br>
-  <br>
+<br>
+<br>
 
 
 
@@ -48,9 +49,10 @@ English: The student with ID1 is friends with the student with ID2. Friendship i
   
 **Likes ( ID1, ID2 )**
 English: The student with ID1 likes the student with ID2. Liking someone is not necessarily mutual, so if (123, 456) is in the Likes table, there is no guarantee that (456, 123) is also present.
+
 <br>
 
-Click [here][3] to see the database.
+Click [here][3] to see the database.<br>
 Click [here][4] to see the schema and data (You have to download the file and preview it on the browser).
 
 <br>
